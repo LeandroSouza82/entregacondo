@@ -19,3 +19,12 @@ O DNS de app.entregacondo.com.br é administrado na Locaweb. Use o destino forne
 Este repositório contém somente o site institucional. O aplicativo Flutter e o dashboard são projetos separados. Não contém credenciais nem dados de entregas.
 As páginas informativas refletem uma versão em desenvolvimento. Identificação do responsável, canal público e regras operacionais finais ainda precisam ser completados antes do lançamento geral.
 A página institucional não é um callback de autenticação; o login do Flutter continua usando o retorno próprio do aplicativo.
+
+## Publicação confirmada em 18/10/2026
+- Repositório: https://github.com/LeandroSouza82/entregacondo
+- Site: https://entregacondo-site.vercel.app
+- Projeto Vercel: entregacondo-site (prj_xj3xPXcaYPowhoKwxs2jPQUq9h1w)
+- Commit da primeira publicação: 6b569125fe6e75d74d39cdbd776bde4629b5400e
+- app.entregacondo.com.br adicionado à Vercel. CNAME alterado na Locaweb para o destino recomendado b11acd3113cbb9bc.vercel-dns-017.com. A propagação e HTTPS do domínio próprio ainda estavam pendentes na última consulta.
+- Página inicial, privacidade, uso e SVG retornaram HTTP 200 no endereço Vercel.
+- O domínio principal entregacondo.com.br permanece reservado ao dashboard e não foi alterado.
