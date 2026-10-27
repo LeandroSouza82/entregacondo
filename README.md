@@ -1,5 +1,9 @@
 # EntregaCondo — site institucional
 
+## Endereço principal a partir de 27/10/2026
+
+O site público atualizado está em https://entregacondo.com.br e o painel em https://dashboard.entregacondo.com.br. Este projeto mantém redirecionamento permanente do endereço antigo app.entregacondo.com.br para o site principal, preservando caminhos e parâmetros. As páginas públicas atuais são mantidas no repositório entregacondo_dashbord, em public/site, junto às regras que separam os domínios. Os arquivos dist deste repositório são a versão histórica.
+
 Site estático de apresentação do aplicativo EntregaCondo. Domínio: https://app.entregacondo.com.br.
 
 ## Estrutura
