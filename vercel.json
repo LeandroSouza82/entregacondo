@@ -5,6 +5,7 @@
   "buildCommand": "",
   "installCommand": "",
   "redirects": [
+    { "source": "/", "destination": "https://entregacondo.com.br/", "permanent": true },
     { "source": "/:path*", "destination": "https://entregacondo.com.br/:path*", "permanent": true }
   ],
   "headers": [{ "source": "/(.*)", "headers": [
